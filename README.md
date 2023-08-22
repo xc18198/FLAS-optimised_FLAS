@@ -1,2 +1,6 @@
 # FLAS-optimised_FLAS
-two folders, one for the original FLAS reproduction and another for the optimised version.
+Two folders, one for the original FLAS reproduction and another for the optimized version.
+
+
+Environment：pytorch, torchvision,numpy,pandas,
+
